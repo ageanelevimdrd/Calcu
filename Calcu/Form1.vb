@@ -102,4 +102,9 @@
     Private Sub Button27_Click(sender As Object, e As EventArgs) Handles Button27.Click
 
     End Sub
+
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
+        TextBox1.Text = TextBox1.Text & "10"
+
+    End Sub
 End Class
