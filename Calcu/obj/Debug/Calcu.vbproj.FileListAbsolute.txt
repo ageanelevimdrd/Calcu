@@ -1,0 +1,11 @@
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\bin\Debug\Calcu.exe.config
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\bin\Debug\Calcu.xml
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\obj\Debug\Calcu.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\obj\Debug\Calcu.Form1.resources
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\obj\Debug\Calcu.Resources.resources
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\obj\Debug\Calcu.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\obj\Debug\Calcu.exe
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\obj\Debug\Calcu.xml
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\Calcu\Calcu\obj\Debug\Calcu.pdb
